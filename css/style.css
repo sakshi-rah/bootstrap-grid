@@ -1,0 +1,11 @@
+.flower-img{
+    width: 80px;
+}
+.second-container{
+    display: flex;
+    justify-content: center;
+}
+.picture-flower{
+    width: 550px;
+    border-radius: 20px;
+}
